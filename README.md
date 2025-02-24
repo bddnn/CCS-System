@@ -51,5 +51,8 @@ This project is part of an academic assignment at the university. It implements 
 - If any issues arise, verify Java installation and network configuration.
 
 ## Author
-Student ID: **s31560**
+Created by bddnn.
+
+## License
+This project is licensed under the MIT License.
 
